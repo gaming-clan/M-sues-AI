@@ -1,0 +1,6 @@
+{
+  "name": "Mësues AI",
+  "description": "Mësuesi yt AI — gjithmonë i disponueshëm",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
