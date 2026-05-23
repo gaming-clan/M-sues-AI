@@ -1,18 +1,42 @@
+# Flutter & Dart
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+generated_plugin_registrant.dart
+
+# VS Code
+.vscode/
+
+# IntelliJ
 *.iml
-.gradle
-.kotlin
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+.idea/
+/*.iml
+/modules.xml
+/workspace.xml
+/caches
+/navEditor.xml
+/assetWizardSettings.xml
+
+# macOS
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
+
+# Android
+.gradle/
+/local.properties
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Flutter environment
 .env
+
+# Signing files
 debug.keystore
+my-upload-key.jks
+
+# Misc
+pubspec.lock

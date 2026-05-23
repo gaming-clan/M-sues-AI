@@ -18,6 +18,8 @@
 
 ---
 
+> Legacy Android/Kotlin module has been preserved under `legacy_android/` while the main app is converted to Flutter.
+
 ## 📖 About
 
 **Mësues AI** is a free Albanian-language AI tutoring app for all pre-university students — from **Grade 1 through Grade 13**, across every school track in the Albanian education system.
